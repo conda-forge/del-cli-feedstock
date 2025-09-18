@@ -1,5 +1,5 @@
 context:
-  version: "6.0.0"
+  version: "7.0.0"
 
 package:
   name: del-cli
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/del-cli/-/del-cli-${{ version }}.tgz
-  sha256: 117da7402933ef52f3de0eb85459424655dcbfe8fa46ce45ddd3d819dbf50f89
+  sha256: a18f25bfab7565949f61411798a62ba685efc49aabf268e45c4d00a9c5bbb187
 
 build:
   number: 0
